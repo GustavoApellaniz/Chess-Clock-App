@@ -1,0 +1,6 @@
+Coloque aqui:
+- click.mp3  (som do botão / passar a vez)
+- alarm.mp3  (som de tempo esgotado)
+
+Veja o README.md principal do projeto para sugestões de onde baixar
+sons gratuitos e livres de direitos autorais.

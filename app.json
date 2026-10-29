@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Relógio de Xadrez Nobre",
+    "slug": "relogio-xadrez-nobre",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#3E2723"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "android": {
+      "package": "com.gustavo.chessclocknobre",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#3E2723"
+      },
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "COLOQUE_AQUI_DEPOIS_DE_RODAR_eas_init"
+      }
+    }
+  }
+}
